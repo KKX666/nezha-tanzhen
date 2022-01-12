@@ -53,7 +53,7 @@ Client secrets  点击旁边生成按钮  然后记录下来
 curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh -o nezha.sh && chmod +x nezha.sh && ./nezha.sh
 ```
 
-**选择1开始安装面板**（安装好后部署宝塔面板）
+**选择1开始安装面板**（安装好后部署宝塔面板）**
 
 宝塔面板搭建
 ---------------------------
