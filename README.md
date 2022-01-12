@@ -53,7 +53,7 @@ Client secrets  点击旁边生成按钮  然后记录下来
 curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh -o nezha.sh && chmod +x nezha.sh && ./nezha.sh
 ```
 
-**选择1开始安装面板**（安装好后部署宝塔面板）**
+**选择1开始安装面板**（安装好后部署宝塔面板）
 
 宝塔面板搭建
 ---------------------------
@@ -79,7 +79,7 @@ wget -O install.sh http://download.yu.al/install/install-ubuntu_6.0.sh && sudo b
 
 ![image](https://user-images.githubusercontent.com/94978556/149086948-184aeb30-c321-493d-aa9a-bcb6bdbd2ffd.png)
 
-**然后创建一个反向代理  名字尽量英文（不然会出错）目标URL填写带小云朵那个域名  然后提交
+**然后创建一个反向代理  名字尽量英文（不然会出错）目标URL填写带小云朵那个域名  然后提交**
 
 ![image](https://user-images.githubusercontent.com/94978556/149087855-f679739b-a551-4534-aadf-42c8ed511a10.png)
 
