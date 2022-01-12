@@ -23,5 +23,17 @@
 
 https://github.com/settings/developers 然后点击New OAuth App按钮
 
-填入你打开小云朵的域名
+Github OAuth Apps填写方法
+------------------------
+Application name 这个填写名字 具体随你
 
+Homepage URL
+```
+https://你开启小云朵的域名
+```
+Authorization callback URL
+```
+https://你开启小云朵的域名/oauth2/callback
+```
+
+填写OK后 点击
