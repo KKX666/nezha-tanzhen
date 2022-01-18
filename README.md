@@ -1,6 +1,8 @@
 # 哪吒探针VPS监控搭建
 脚本来源：https://github.com/naiba/nezha
 
+小云朵＝CDN
+
 准备工作
 -------------
 准备一个域名
