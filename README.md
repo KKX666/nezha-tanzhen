@@ -42,7 +42,8 @@ https://你开启小云朵的域名/oauth2/callback
 
 生成Github登录密钥
 -----------------
-![image](https://user-images.githubusercontent.com/94978556/149084777-16456710-700e-48ac-9146-8fbb6aa547dd.png)
+![image](https://user-images.githubusercontent.com/42031122/153425434-e58ed7e8-61ce-4239-9022-534414500b46.png)
+
 
 Client ID  记录下来
 
